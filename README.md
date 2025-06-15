@@ -1,12 +1,26 @@
-# React + Vite
+# Gif Expert App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Gif Expert App is a modern React application that allows you to search and display GIFs from the Giphy API. Built with React hooks and custom components, this project is perfect for learning about state management, API integration, and responsive design in React.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Search for your favorite GIFs by category
+- ⚡ Fast and responsive UI
+- 🧩 Built with React functional components and hooks
+- 🎨 Modern and clean design
+- 📦 Powered by the Giphy API
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Add your Giphy API key in the appropriate file.
+4. Run `npm run dev` to start the development server.
+
+## Usage
+
+Type a category in the search bar and press Enter. The app will fetch and display GIFs related to your search.
+
+---
+
+Feel free to contribute or customize this project for your own learning!
